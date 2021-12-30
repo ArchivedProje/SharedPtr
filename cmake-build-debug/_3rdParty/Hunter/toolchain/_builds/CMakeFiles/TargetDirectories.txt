@@ -1,2 +1,0 @@
-/home/byteihq/CLionProjects/resume/SharedPtr/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/edit_cache.dir
-/home/byteihq/CLionProjects/resume/SharedPtr/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,39 @@
+Start testing: Dec 07 21:40 MSK
+----------------------------------------------------------
+1/1 Testing: unit_tests
+1/1 Test: unit_tests
+Command: "/home/byteihq/CLionProjects/resume/SharedPtr/cmake-build-debug/tests"
+Directory: /home/byteihq/CLionProjects/resume/SharedPtr/cmake-build-debug
+"unit_tests" start time: Dec 07 21:40 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/byteihq/.hunter/_Base/35fa55b/252be92/b78b2c5/Build/GTest/Source/googletest/src/gtest_main.cc
+[==========] Running 6 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 6 tests from SharedPtr
+[ RUN      ] SharedPtr.Init
+[       OK ] SharedPtr.Init (0 ms)
+[ RUN      ] SharedPtr.InitwithParams
+[       OK ] SharedPtr.InitwithParams (0 ms)
+[ RUN      ] SharedPtr.Copy
+[       OK ] SharedPtr.Copy (0 ms)
+[ RUN      ] SharedPtr.Move
+[       OK ] SharedPtr.Move (0 ms)
+[ RUN      ] SharedPtr.Reset
+[       OK ] SharedPtr.Reset (0 ms)
+[ RUN      ] SharedPtr.Swap
+[       OK ] SharedPtr.Swap (0 ms)
+[----------] 6 tests from SharedPtr (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"unit_tests" end time: Dec 07 21:40 MSK
+"unit_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 07 21:40 MSK

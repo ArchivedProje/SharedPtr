@@ -1,0 +1,18 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/byteihq/CLionProjects/resume/SharedPtr
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: /home/byteihq/.hunter
+-- [hunter] [ Hunter-ID: 35fa55b | Toolchain-ID: 252be92 | Config-ID: b78b2c5 ]
+-- [hunter] GTEST_ROOT: /home/byteihq/.hunter/_Base/35fa55b/252be92/b78b2c5/Install (ver.: 1.10.0)
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/byteihq/CLionProjects/resume/SharedPtr/cmake-build-debug

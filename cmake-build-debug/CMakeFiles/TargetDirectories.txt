@@ -1,0 +1,5 @@
+/home/byteihq/CLionProjects/resume/SharedPtr/cmake-build-debug/CMakeFiles/demo.dir
+/home/byteihq/CLionProjects/resume/SharedPtr/cmake-build-debug/CMakeFiles/tests.dir
+/home/byteihq/CLionProjects/resume/SharedPtr/cmake-build-debug/CMakeFiles/test.dir
+/home/byteihq/CLionProjects/resume/SharedPtr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/byteihq/CLionProjects/resume/SharedPtr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
